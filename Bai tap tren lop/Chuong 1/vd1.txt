@@ -1,0 +1,2 @@
+print('Hello Ngát')
+print('Vinh hướng dẫn này')

@@ -1,0 +1,8 @@
+# Bài 5-1: Lập trình nhập vào hai câu từ bàn phím, hãy tìm từ dài nhất có mặt
+# trong cả hai câu này (nếu có nhiều hơn một từ thỏa mãn chỉ cần đưa ra một từ
+# là đủ). Trong đó từ là các kí tự liền nhau không chứa dấu cách. Nếu không tìm
+# được thì thông báo hai câu trên không có từ nào chung.
+# Ví dụ:
+# Câu thứ nhất: abc def abcac hoa hong
+# Câu thứ hai: mot mua xuan abc abcac hoa ada
+# Từ dài nhất có mặt trong cả hai xâu là: abcac
